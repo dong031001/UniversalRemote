@@ -11,6 +11,6 @@ universalremote.strings.bound=无线访问器已绑定
 universalremote.strings.blockchanged=绑定的方块不在原位，请重新绑定
 universalremote.strings.powertooltip=%s/%s 能量剩余
 universalremote.strings.crossdimerror=绑定的方块在另一维度
-universalremote.version.update_available=有可用的更新
+universalremote.version.update_available=新版本%s可用
 universalremote.version.download=下载
 universalremote.version.click_to_download=点击以下载
